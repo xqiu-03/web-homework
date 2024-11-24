@@ -1,4 +1,3 @@
-// 创建一个包含完整时间信息的 data 对象
 const data = {
   year: 0,
   month: 0,
